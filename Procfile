@@ -1,1 +1,1 @@
-web : streamlit run motorvehicle.py
+web : sh setup.sh && streamlit run motorvehicle.py
